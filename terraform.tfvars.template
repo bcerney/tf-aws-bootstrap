@@ -1,0 +1,12 @@
+region = "us-east-2"
+shared_credentials_file = "/home/user/.aws/credentials"
+profile = "terraform_user"
+
+org_name = "bootstrap-poc"
+workspace = "test"
+
+cluster_name = "bootstrap-poc-test"
+
+repo_name = "django-k8s-poc"
+repo_owner = "bcerney"
+
